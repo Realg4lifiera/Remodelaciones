@@ -4,3 +4,144 @@ body{
   margin: 0;
 }
 
+
+.drywallimg{
+  box-shadow: 0px 0px 7px black;
+  width: 200px;
+  height: 200px;
+}
+
+.acabadosenmaderaimg{
+  box-shadow: 0px 0px 7px black;
+  width: 200px;
+  height: 200px;
+}
+
+.tarjetaobrablanca {
+  display: flex;
+  width: 600px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.tarjetaobrablanca div {
+  flex: 1; 
+  padding: 20px;
+}
+
+.tarjetaobrablanca .imagenesobrablanca {
+  flex: 1; 
+  display: flex;
+}
+
+.tarjetaobrablanca img {
+  width: 50%;
+  height: auto;
+  box-shadow: 1px 1px 5px black;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.contenidotarjetaobrablanca {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+
+
+.tarjetadrywall {
+  display: flex;
+  max-width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.tarjetadrywall div {
+  flex: 1;
+  padding: 5px;
+}
+
+.tarjetadrywall .imagenesdrywall {
+  display: flex;
+}
+
+.tarjetadrywall img {
+  width: 100%;
+  height: auto;
+}
+
+.titulotarjetadrywall {
+  margin-top: 0;
+  color: #333;
+}
+
+.tarjetaacabadosenmadera {
+  display: flex;
+  max-width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.tarjetaacabadosenmadera div {
+  flex: 1;
+  padding: 5px;
+}
+
+.tarjetaacabadosenmadera .imagenesacabadosenmadera {
+  display: flex;
+}
+
+.tarjetaacabadosenmadera img {
+  width: 100%;
+  height: auto;
+}
+
+.titulotarjetaacabadosenmadera {
+  margin-top: 0;
+  color: #333;
+}
+
+.tarjetaenchapes {
+  display: flex;
+  max-width: 300px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.tarjetaenchapes div {
+  flex: 1;
+  padding: 5px;
+}
+
+.tarjetaenchapes .imagenesenchapes {
+  display: flex;
+}
+
+.tarjetaenchapes img {
+  width: 100%;
+  height: auto;
+}
+
+.titulotarjetaenchapes {
+  margin-top: 0;
+  color: #333;
+}
+
