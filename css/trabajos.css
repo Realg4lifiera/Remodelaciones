@@ -1,29 +1,119 @@
+h1 {
+  text-align: center;
+  margin: 50px;
+}
+
 .obrablancaimg {
-    box-shadow: 0px 0px 7px black;
-    width: 200px;
-    height: 200px;
-  }
-  
-.acabadosimg {
-    box-shadow: 0px 0px 7px black;
-    width: 200px;
-    height: 200px;
-  }
-  
-.acabadosenmaderaimg{
-    box-shadow: 0px 0px 7px black;
-    width: 200px;
-    height: 200px;
+  box-shadow: 0px 0px 10px black;
+  width: 200px;
+  height: 200px;
+  margin-right: 1px;
+  margin-top: 30px;
+  border-radius: 5px;
 }
 
-.drywallimg{
-    box-shadow: 0px 0px 7px black;
-    width: 200px;
-    height: 200px;
+.diseñosinterioresimg {
+  box-shadow: 0px 0px 10px black;
+  width: 200px;
+  height: 200px;
+  margin-right: 1px;
+  margin-top: 30px;
+  border-radius: 5px;
 }
 
-.enchapeimg{
-    box-shadow: 0px 0px 7px black;
-    width: 200px;
-    height: 200px;
+.acabadosenmaderaimg {
+  box-shadow: 0px 0px 10px black;
+  width: 200px;
+  height: 200px;
+  margin-right: 1px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.drywallimg {
+  box-shadow: 0px 0px 10px black;
+  width: 200px;
+  height: 200px;
+  margin-right: 1px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.enchapeimg {
+  box-shadow: 0px 0px 10px black;
+  width: 200px;
+  height: 200px;
+  margin-right: 1px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.container-obrablanca {
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(189, 189, 189);
+  display: auto;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.container-enchape {
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(189, 189, 189);
+  display: auto;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.container-acabadosenmadera {
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(189, 189, 189);
+  display: auto;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.container-drywall {
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(189, 189, 189);
+  display: auto;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.container-diseñosinteriores {
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(189, 189, 189);
+  display: auto;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 0 10px black;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
 }

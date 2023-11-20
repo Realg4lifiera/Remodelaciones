@@ -1,17 +1,16 @@
-body{
+body {
   padding: 0;
   border: 0;
   margin: 0;
 }
 
-
-.drywallimg{
+.drywallimg {
   box-shadow: 0px 0px 7px black;
   width: 200px;
   height: 200px;
 }
 
-.acabadosenmaderaimg{
+.acabadosenmaderaimg {
   box-shadow: 0px 0px 7px black;
   width: 200px;
   height: 200px;
@@ -28,12 +27,12 @@ body{
 }
 
 .tarjetaobrablanca div {
-  flex: 1; 
+  flex: 1;
   padding: 20px;
 }
 
 .tarjetaobrablanca .imagenesobrablanca {
-  flex: 1; 
+  flex: 1;
   display: flex;
 }
 
@@ -55,8 +54,6 @@ h3 {
   margin-top: 0;
   color: #333;
 }
-
-
 
 .tarjetadrywall {
   display: flex;
@@ -145,3 +142,21 @@ h3 {
   color: #333;
 }
 
+h1 {
+  text-align: center;
+}
+
+.container-quienessomos {
+  text-align: center;
+  background-color: rgb(119, 119, 218);
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 0 10px black;
+}
+
+.quienessomosimg {
+  height: 400px;
+  width: 400px;
+  margin-right: 10px;
+}
